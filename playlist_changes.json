@@ -9,9 +9,9 @@
   "added_playlists": [
     {
       "owner_id": "12",
-      "song_ids": ["4", "22", "49"]
+      "song_ids": ["4", "17", "22", "36", "49"]
     }
   ],
 
-  "removed_playlist_ids": ["4"]
+  "removed_playlist_ids": ["4", "6"]
 }
