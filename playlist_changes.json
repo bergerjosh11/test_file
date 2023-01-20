@@ -3,5 +3,5 @@
 
   "add_playlists": [{"owner_id": "12", "song_ids": ["4", "17", "22", "36", "49"]}],
 
-  "remove_playlist_ids": ["4", "6"]
+  "remove_playlists": ["4", "6"]
 }
