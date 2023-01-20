@@ -1,5 +1,5 @@
 {
-  "added_songs": [{"song_id": "13", "playlist_id": "1"}],
+  "add_new_songs": [{"song_id": "13", "playlist_id": "1"}],
 
   "added_playlists": [{"owner_id": "12", "song_ids": ["4", "17", "22", "36", "49"]}],
 
